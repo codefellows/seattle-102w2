@@ -1,6 +1,3 @@
-<!-- Please make EDITS to README -->
-<!-- Please make EDITS to README -->
-
 # Code 102: Intro to Software Development
 
 ## Welcome to Code Fellows!
