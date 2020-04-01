@@ -11,10 +11,9 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT,  email: EDIT, slack: EDIT
+Instructor: Brook Riggio,  email: brook@codefellows.com, slack: @Brook Riggio
 
-
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/1926005)**
 
 ### Course Schedule
 
